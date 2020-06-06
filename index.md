@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my github pages
 
 You can use the [editor on GitHub](https://github.com/Haruhi-su/one/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
